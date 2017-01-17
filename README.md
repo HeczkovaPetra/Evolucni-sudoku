@@ -1,3 +1,3 @@
 # Sudoku
 
-Řešení sudoku o zadané velikosti pomocí evolučního algoritmu. 
+Experiment řešení sudoku o zadané velikosti pomocí evolučního algoritmu. 
